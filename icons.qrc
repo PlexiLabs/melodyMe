@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="loading">loading.gif</file>
+        <file alias="melodyMe-icon">melodyMe_ico.ico</file>
+        <file alias="melodyMe-note-icon">melodyMe_icon.png</file>
+        <file alias="melodyMe-logo">melodyMe_logo.png</file>
+    </qresource>
+</RCC>
